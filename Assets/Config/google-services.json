@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "232085783098",
+    "firebase_url": "https://smywar-29ba7.firebaseio.com",
+    "project_id": "smywar-29ba7",
+    "storage_bucket": "smywar-29ba7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232085783098:android:ebfa38c7cf2c731a7b6b03",
+        "android_client_info": {
+          "package_name": "com.arknarchy.smywar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232085783098-mi6nvuqi2ah67914vsigmkblpjaeld2k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrYh11aHmCJ13CyOeTokDRlOdYzR9T9Io"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232085783098-mi6nvuqi2ah67914vsigmkblpjaeld2k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
